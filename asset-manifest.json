@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Loren-ipsum-generator/static/css/main.fb86bce3.chunk.css",
+    "main.js": "/Loren-ipsum-generator/static/js/main.ef064f79.chunk.js",
+    "main.js.map": "/Loren-ipsum-generator/static/js/main.ef064f79.chunk.js.map",
+    "runtime-main.js": "/Loren-ipsum-generator/static/js/runtime-main.b231d466.js",
+    "runtime-main.js.map": "/Loren-ipsum-generator/static/js/runtime-main.b231d466.js.map",
+    "static/js/2.d8a71053.chunk.js": "/Loren-ipsum-generator/static/js/2.d8a71053.chunk.js",
+    "static/js/2.d8a71053.chunk.js.map": "/Loren-ipsum-generator/static/js/2.d8a71053.chunk.js.map",
+    "index.html": "/Loren-ipsum-generator/index.html",
+    "precache-manifest.4af7914120ea912087f56ca28e7ce6e4.js": "/Loren-ipsum-generator/precache-manifest.4af7914120ea912087f56ca28e7ce6e4.js",
+    "service-worker.js": "/Loren-ipsum-generator/service-worker.js",
+    "static/css/main.fb86bce3.chunk.css.map": "/Loren-ipsum-generator/static/css/main.fb86bce3.chunk.css.map",
+    "static/js/2.d8a71053.chunk.js.LICENSE.txt": "/Loren-ipsum-generator/static/js/2.d8a71053.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b231d466.js",
+    "static/js/2.d8a71053.chunk.js",
+    "static/css/main.fb86bce3.chunk.css",
+    "static/js/main.ef064f79.chunk.js"
+  ]
+}
